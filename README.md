@@ -1,6 +1,6 @@
-# 🧠 Complete-AI-Mastery
+# 🧠 LLM for all - LLM4All
 
-A complete self-study educational curriculum designed to take you from programming fundamentals to conducting original AI research. Every concept is implemented hands-on.
+A complete self-study educational curriculum designed to take you from programming fundamentals to conducting original AI research (AI mastery). Every concept is implemented hands-on.
 
 ##  🎯 Core Modules
 
