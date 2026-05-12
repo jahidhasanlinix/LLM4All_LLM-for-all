@@ -6,7 +6,8 @@ A complete self-study educational curriculum designed to take you from programmi
 
 1. **Mathematics for AI** - Foundational mathematical concepts
 2. **Vision Transformers** - Advanced computer vision architectures
-3. *More modules coming soon...*
+3. **Fine-Tune** - Custom Fine-tune Llama 7B with LoRA, SFT
+4. *More modules coming soon...*
 
 ## 🌟 Getting Started
 
